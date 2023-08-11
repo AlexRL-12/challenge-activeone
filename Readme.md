@@ -1,4 +1,4 @@
-# API de Ejemplo
+# API de prueba
 
 Esta es una API de ejemplo para realizar operaciones CRUD en diferentes rutas. La API se utiliza para administrar posts, comentarios y categorías.
 
