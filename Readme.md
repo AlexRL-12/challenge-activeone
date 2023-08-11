@@ -122,7 +122,5 @@ Método: GET
 URL: http://localhost:3000/api/categorias/{ID_DE_LA_CATEGORIA}
 Respuesta esperada: Código de estado 200 (OK) con los detalles de la categoría.
 
-Notas
-Reemplaza ID_DEL_POST, ID_DEL_COMENTARIO y ID_DE_LA_CATEGORIA con los valores de ID correspondientes.
-
+## Nota
 Asegúrate de tener el servidor en ejecución antes de realizar las llamadas a la API.
