@@ -1,5 +1,19 @@
 # API de prueba
 
+# Instala las dependencias:
+
+npm install
+
+# Asegúrate de tener MongoDB instalado y en ejecución.
+
+# Inicia el servidor:
+
+npm start
+
+El servidor se ejecutará en http://localhost:3000.
+
+# Explicación
+
 Esta es una API para realizar operaciones CRUD en diferentes rutas. La API se utiliza para administrar posts, comentarios y categorías.
 
 ## Rutas
